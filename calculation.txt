@@ -1,0 +1,22 @@
+2-4 D MAX 150,270 min 40,80 mid 100
+3-8 D
+80, 105
+3-6 D
+
+
+#0-4 D
+2-3-4 A
+
+min 25, 35 
+max 150, 180
+
+    a is angle between 2 3 4 
+    b is angle between 5 6 7 
+    c is distance between 2 4 
+    d is distance between 5 7
+    e 3 to 8
+    f 6 to 11
+    g 14 to 10
+    h 15 to 13
+
+
